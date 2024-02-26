@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
-Tech Lead at Nextly and PhD student at UFABC, in the Functional Programming field, mostly with Haskell. Master in Computer Science at UFABC, in the Data Mining field, and Technologist in Analysis and Development of Systems at Fatec. Seven years of professional experience with web development, using PHP, Vue and Angular, and experience with mobile application development using Ionic. MSc in Computer Science, using Python for Machine Learning applications.
+Lead Front-End Dev at inPowered.ai and PhD student at UFABC, in the Functional Programming field, mostly with Haskell. Master in Computer Science at UFABC, in the Data Mining field, and Technologist in Analysis and Development of Systems at Fatec. Seven years of professional experience with web development, using PHP, Vue and Angular, and experience with mobile application development using Ionic. MSc in Computer Science, using Python for Machine Learning applications.
 
 <a href="https://www.linkedin.com/in/matheuscfernandes/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
