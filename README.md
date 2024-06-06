@@ -7,9 +7,13 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
 
-Tech Lead and Front-End Engineer at inPowered.ai and PhD student at UFABC, in the Functional Programming field, mostly with Haskell. Master in Computer Science at UFABC, in the Data Mining field, and Technologist in Analysis and Development of Systems at Fatec. Seven years of professional experience with web development, using PHP, Vue and Angular, and experience with mobile application development using Ionic. MSc in Computer Science, using Python for Machine Learning applications.
+Tech Lead and Front-End Engineer at [inPowered AI](https://inpowered.ai/), with a strong foundation in full-stack web development using TypeScript (Angular/Vue and Node.js) and PHP (Laravel/Codeigniter), as well as mobile application development with Ionic. 
+Skilled in Python for Machine Learning applications, acquired through academic research and professional projects.
+
+Currently pursuing a PhD at [UFABC](https://www.ufabc.edu.br/) in Program Synthesis and Functional Programming, focusing on Haskell. Holds a Master's degree in Computer Science from UFABC, specializing in Machine Learning, and a degree in Analysis and Development of Systems from Fatec.
 
 <a href="https://www.linkedin.com/in/matheuscfernandes/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,6 +26,3 @@ Tech Lead and Front-End Engineer at inPowered.ai and PhD student at UFABC, in th
 
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcf1110&exclude_repo=smart-cities-pollution,BIGDATA2018)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcf1110&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mcf1110&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
