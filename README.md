@@ -15,12 +15,8 @@ Skilled in Python for Machine Learning applications, acquired through academic r
 
 Currently pursuing a PhD at [UFABC](https://www.ufabc.edu.br/) in Program Synthesis and Functional Programming, focusing on Haskell. Holds a Master's degree in Computer Science from UFABC, specializing in Machine Learning, and a degree in Analysis and Development of Systems from Fatec.
 
-<a href="https://www.linkedin.com/in/matheuscfernandes/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://codepen.io/mcf1110">
-  <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/matheuscfernandes/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codepen.io/mcf1110"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 
 ---
 
