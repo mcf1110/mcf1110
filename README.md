@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
 
-Senior Software Engineer , at [Brex](http://brex.com/), with a strong foundation in full-stack web development using TypeScript (Angular/Vue and Node.js) and PHP (Laravel/Codeigniter), as well as mobile application development with Ionic. 
+Senior Software Engineer at [Brex](http://brex.com/), with a strong foundation in full-stack web development using TypeScript (Angular/Vue and Node.js) and PHP (Laravel/Codeigniter), as well as mobile application development with Ionic. 
 Skilled in Python for Machine Learning applications, acquired through academic research and professional projects.
 
 Currently pursuing a PhD at [UFABC](https://www.ufabc.edu.br/) in Program Synthesis and Functional Programming, focusing on Haskell. Holds a Master's degree in Computer Science from UFABC, specializing in Machine Learning, and a degree in Analysis and Development of Systems from Fatec.
